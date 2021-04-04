@@ -1,0 +1,78 @@
+baseURL = "https://avs2805.github.io" 
+copyright = "avinash" # cactus will use title if copyright is not set
+disqusShortname = "avi" # Used when comments is enabled. Cactus will use site title if not set
+languageCode = "en-us" 
+theme = "hugo-theme-cactus" 
+title = "Avinash Singh" 
+# googleAnalytics = "UA-1234-5"
+
+# summaryLength = 2
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Projects"
+url = "/projects"
+weight = 2
+
+[[menu.main]]
+name = "Publications"
+url = "/publications"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
+
+[markup]
+[markup.tableOfContents]
+endLevel = 4
+ordered = false
+startLevel = 2
+
+[params]
+colortheme = "classic" # dark, light, white, or classic
+googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
+rss = false # generate rss feed. default value is false
+# Home page settings
+description = "I'm an autonomous systems and controls engineer. Currently I work at Fresh Consulting (Bellevue, WA) as a robotics engineer where I focus on navigaiton, path-planning and SLAM algorithms and integrating software  mechatronic systems. I graduated from the University of Washington with a masters in mechanical engineering focusing on robotics and controls. My research interests include Localization, Navigation, AI/ML & Deep Learning. In my free time I like to dabble in photography, camp and watch fútbol and F1."
+
+mainSection = "projects" # your main section
+postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
+projectsUrl = "https://github.com/avs2805" # title link for projects list
+showAllPostsOnHomePage = false # default
+showProjectsList = false # show projects list by default (if projects data file exists).
+tagsOverview = true # show tags overview by default.
+
+# https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+dateFormat = "2006-01-02" # default
+
+# Post page settings
+show_updated = false # default
+
+[params.comments]
+enabled = true # default
+engine = "disqus" # more supported engines will be added.
+
+# the value of name should be an valid font awesome icon name (brands type)
+# https://fontawesome.com/icons?d=gallery&s=brands
+[[params.social]]
+link = "https://www.linkedin.com/in/avinsh/"
+name = "linkedin"
+[[params.social]]
+link = "https://github.com/avs2805"
+name = "github"
+[[params.social]]
+link = "avs2805@gmail.com" # no need for "mailto:" in the head
+name = "email" 
+[[params.social]]
+link = "https://scholar.google.com/citations?user=Jg7x1qsAAAAJ&hl=en"
+name = "scholar"
+[[params.social]]
+link = "https://500px.com/p/avs2805?view=photos"
+name = "500px"

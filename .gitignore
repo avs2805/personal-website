@@ -1,0 +1,5 @@
+# Back-up folder for trying themes
+content-backup/
+
+# MacOS Artifacts
+.DS_Store
