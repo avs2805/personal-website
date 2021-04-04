@@ -1,0 +1,4 @@
+[submodule "avs2805blog/public"]
+	path = avs2805blog/public
+	url = https://github.com/avs2805/avs2805.github.io.git
+	branch = master
