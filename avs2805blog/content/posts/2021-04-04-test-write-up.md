@@ -6,4 +6,5 @@ description = "test"
 tags = [
     "test",
 ]
+katex="true"
 +++
