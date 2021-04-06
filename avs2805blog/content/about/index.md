@@ -78,3 +78,6 @@ Path Planning, Navigation, Robot Localization & Mapping, Controls, AI/ML, Deep L
 ### Extra Curricular
 
 ---
+
+I deeply enjoy photography & dabble in video editing.
+Checkout my 500px profile [here](https://500px.com/p/avs2805?view=photos).
