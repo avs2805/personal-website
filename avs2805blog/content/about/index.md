@@ -11,8 +11,7 @@ keywords:
 
 Robotics Software and Controls Engineer. I'm passionate about everything robotics.
 
-Github: [avs2805](https://github.com/avs2805) | Résumé: [Google Drive](https://docs.google.com/document/d/17Mug0-bJ__18nWVaj7jtzF5-hISgQwuwrkTke3Wniyk/edit?usp=sharing)
-
+Github: [avs2805](https://github.com/avs2805) | Résumé:<a href="/docs/resume.pdf" target="_blank">PDF.</a></p>
 
 ### Skills
 
